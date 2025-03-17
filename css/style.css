@@ -13,7 +13,7 @@ body {
 #header {
   width: 100%;
   height: 100vh;
-  background-image: url(/assert/backgroundimg.jpg);
+  background-image: url(/assert/);
   background-size: cover;
   background-position: center;
 }
